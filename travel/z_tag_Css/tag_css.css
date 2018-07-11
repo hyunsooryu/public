@@ -20,7 +20,8 @@
 .menu a{
     color: #58595b;
     text-decoration: none;
-    margin-left:20px;
+    margin-left:10px;
+    margin-right:10px;
     font-size: 16px;
     font-family : "helvetica"
 }
